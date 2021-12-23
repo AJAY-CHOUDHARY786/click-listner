@@ -22,6 +22,6 @@ public class Ajay extends Applet implements MouseListener  {
     }
 }
 /* 
-<applet code="Ajay.class" width="1000" height="1000"> 
+<applet code="Ajay.class" width="500" height="500"> 
 </applet> 
 */
