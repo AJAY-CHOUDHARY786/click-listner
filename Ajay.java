@@ -17,8 +17,8 @@ public class Ajay extends Applet implements MouseListener  {
         repaint();
     }
     public void paint(Graphics g){
-        g.setColor(Color.BLUE);
-        g.fillOval(x, y, 100, 100);
+        g.setColor(Color.RED);
+        g.fillOval(x, y, 50, 50);
     }
 }
 /* 
